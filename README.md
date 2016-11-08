@@ -14,7 +14,7 @@ The group has come up with the following four movies:
 * Spirited Away
 * Wall-E
 
-The app will display these four movies on screen. There will be a red transparent circle Laura will be able to move around the screen. If this circle is hovering over one of these movie titles displayed on screen when she taps the circle then that will be the movie we watch.
+The app will display these four movies on screen. There will be a red transparent circle Laura will be able to move around the screen. If the circle is hovering over one of these movie titles displayed on the screen, when Laura taps the circle then that will be the movie we watch.
 
 Demo:
 
@@ -41,3 +41,5 @@ If you need a nudge in the right direction, ask an instructor for a hint. All of
 https://www.omdbapi.com
 
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-MoviePicker-lab'>Multithreading Debugging</a> on Learn.co and start learning to code for free.</p>
